@@ -137,3 +137,5 @@ function logout(){if(confirm('Logout?'))location.href='/logout'}
 /IDF/components/hal/esp32/include/hal/clk_tree_ll.h
 /IDF/components/hal/esp32/include/hal/timer_ll.h
 ```
+
+> You can copy the HTML page and paste to any AI and request the AI to Make a complete reconstructed code function by function (followed by the code).
