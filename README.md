@@ -4,7 +4,7 @@ Craved or dump any information from the esp32 firmware.
 # Installation 
 > linux or termux (ubuntu/debian proot)
 ```
-sudo apt install && sudo apt install binwalk -y
+sudo apt update && sudo apt install binwalk -y
 ```
 - Download any firmware you want to dump the info and execute
 ```
